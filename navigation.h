@@ -1,0 +1,11 @@
+//
+// Created by Thiago Cunha on 22/05/2017.
+//
+
+#ifndef LISTADUPLAMENTEENCADEADA_NAVIGATION_H
+#define LISTADUPLAMENTEENCADEADA_NAVIGATION_H
+
+void menu();
+int enterNumber();
+
+#endif //LISTADUPLAMENTEENCADEADA_NAVIGATION_H

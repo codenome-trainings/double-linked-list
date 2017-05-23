@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/lista_duplamente_encadeada.cpp
+lista_duplamente_encadeada.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/lista_duplamente_encadeada.h
+conio.h
+-
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/lista_duplamente_encadeada.h
+iostream
+-
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/main.cpp
+navigation.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/navigation.h
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/navigation.cpp
+navigation.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/navigation.h
+lista_duplamente_encadeada.h
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/lista_duplamente_encadeada.h
+conio.h
+-
+
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/navigation.h
+

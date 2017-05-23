@@ -1,0 +1,3 @@
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/cmake-build-debug/CMakeFiles/listaDuplamenteEncadeada.dir
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Thiago Cunha/Documents/Faculdade/estrutura-de-dados/p2/nivel3/listaDuplamenteEncadeada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
